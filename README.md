@@ -4,7 +4,7 @@ An open source video game library manager and launcher with support for 3rd part
 
 Screenshots are available at the [Homepage](http://playnite.link/)
 
-*If you find Playnite useful please consider supporting the lead developer [Josef Nemec](https://github.com/JosefNemec) on [Patreon](https://www.patreon.com/playnite).*
+*If you find Playnite useful please consider supporting the lead developer [Momen Shili](https://github.com/Momen-TCG) on [Patreon](https://www.patreon.com/momenshili).*
 
 Features
 ---------
